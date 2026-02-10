@@ -23,8 +23,8 @@ team_info <- list(
     ),
     list(
       individualName = list(
-        givenName = "Sun",
-        surName = "Yinghao"
+        givenName = "Yinghao",
+        surName = "Sun"
       ),
       organizationName = "Boston University",
       electronicMailAddress = "sunyh@bu.edu"
